@@ -7,25 +7,25 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918811074852']
-global.OwnerNumber = ['918811074852']
-global.ownertag = ['918811074852']
-global.BotName = "Anya❤️"
-global.packname = "Anya bot"
-global.author = "By: Pika❤️"
-global.OwnerName = "3.69_pika"
-global.BotSourceCode = "https://github.com/Pika4O4/Anya-pika"
-global.SupportGroupLink = "https://chat.whatsapp.com/H6CUtq40oRDKIofIEbf1qEl"
+global.Owner = ['918250895584']
+global.OwnerNumber = ['918279975767']
+global.ownertag = ['918250895584']
+global.BotName = "⚡ QUEEN SPIDER ⚡"
+global.packname = "Queen Spider bot"
+global.author = "By: Ironman 💕"
+global.OwnerName = "ironman"
+global.BotSourceCode = "https://github.com/botskaking/Anya-pika"
+global.SupportGroupLink = "https://chat.whatsapp.com/"
 global.sessionName = "session"
 
 // Prefix //
 // If you want to change the prefix, change it and also change all switch's button id from Core.js  otherwise buttons will not work //
-global.prefa = ['-'] 
+global.prefa = ['~'] 
 
 
 global.location = "Assam, India"
-global.reactmoji = "❤️"
-global.themeemoji = "💖"
+global.reactmoji = "💖"
+global.themeemoji = "💕"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
 global.websitex = "https://github.com/FantoX001"
 global.lolhuman = "KaysaS"
@@ -58,14 +58,14 @@ global.ntilink = []
 
 
 global.mess = {
-    jobdone: 'Kaam ho gya darling...',
-    useradmin: 'Sorry, only *Group Admins* can use this command !...Jaa pehle admin banke aa',
-    botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group......To chal ab *Admin* bna 😏',
+    jobdone: 'Kaam ho gya sir...',
+    useradmin: 'Sorry, only *Group Admins* can use this command !...Jao pehle admin banke aao',
+    botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group......To chal ab *Admin* bn k aao 😏',
     botowner: 'Only my *Owner* can use this command, and who are you...why you used this command!',
     grouponly: 'This command is only made for *Groups*, and what the hell are you doing here!',
     privateonly: 'This command is only made for *Private Chat*, chal khopche me aa!',
     botonly: 'Only the *Bot itself* can use this command!',
-    waiting: '_Command processing_ ᵃⁿʸᵃ ᵇʸ ᵖⁱᵏᵃ.....',
+    waiting: '_Command processing_ queen spider ᵇʸ ironman.....',
     nolink: 'Please provide me *link*, Asap!',
     error: 'Error....kuchh to garbar hai dyaa!',
     banned: 'You are *Banned* fron using commands 😠!',
